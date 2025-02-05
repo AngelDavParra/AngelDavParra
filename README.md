@@ -1,4 +1,9 @@
-## Hi there 👋
+## AngelD 👋
+
+Hola, soy Angel Parra
+
+Tecnico superior en Informatica
+Master Conquer Blocks
 
 <!--
 **AngelDavParra/AngelDavParra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
