@@ -1,6 +1,6 @@
 # Angel Parra 👨🏻‍💻 
 
-![ imagenes de git ](//ANGELDAVPARRA/imagen.png)
+![https://github.com/AngelDavParra](imagen.png)
 
 
 
