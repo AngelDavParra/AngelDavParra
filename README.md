@@ -3,7 +3,7 @@
 Hola,👋 soy Angel Parra
 
 ### Full-Stack Developer 🚀
-![https://github.com/Ferran226](FerranCodeIngles.png)
+
 <!--
 **AngelDavParra/AngelDavParra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
