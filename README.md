@@ -7,8 +7,8 @@
 
 <div align="center">
 
-<h5>¡Hola! Soy Ángel Parra, un desarrollador Full Stack con pasión por crear aplicaciones robustas, escalables y optimizadas. 
- Me especializo en el desarrollo frontend y backend, siempre buscando la mejor experiencia para los usuarios y una arquitectura eficiente en el backend.</h5>
+<h4>¡Hola! Soy Ángel Parra, un desarrollador Full Stack con pasión por crear aplicaciones robustas, escalables y optimizadas. 
+ Me especializo en el desarrollo frontend y backend, siempre buscando la mejor experiencia para los usuarios y una arquitectura eficiente en el backend.</h4>
 
 </div>
 
